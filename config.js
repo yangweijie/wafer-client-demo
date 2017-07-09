@@ -6,7 +6,8 @@
 var host = '34794864.qcloud.la';
 
 var config = {
-
+    appid:'wxc3eff1f1e10218aa',
+    appsecrect: 'a6e7f54e95f6a873b0e9721cdeb96bc2',
     // 下面的地址配合云端 Demo 工作
     service: {
         host,
